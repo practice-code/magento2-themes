@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<layout version="0.1.0">
-    <cusdesign_adminhtml_cusdesign_index>
-        <reference name="content">
-            <block type="cusdesign/adminhtml_cusdesign" name="cusdesign" />
-        </reference>
-    </cusdesign_adminhtml_cusdesign_index>
-</layout>
